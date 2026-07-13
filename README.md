@@ -18,6 +18,22 @@ facing use. ICD-10 suggestions are heuristic keyword matches, not certified
 medical coding. Follow-up recommendations are generic and educational — they
 are not personalized medical advice.
 
+
+---
+![Project Home](images/rp1.png)
+---
+---
+![Project Home](images/rp2.png)
+---
+---
+![Project Home](images/rp3.png)
+---
+---
+![Project Home](images/rp4.png)
+---
+---
+![Project Home](images/rp5.png)
+---
 ## How it works
 
 - **Offline / free mode (default):** a rule-based engine parses your pasted
