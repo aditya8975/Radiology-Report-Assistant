@@ -1,4 +1,4 @@
-# 🥈 Radiology Report Assistant
+# Radiology Report Assistant
 
 A documentation-support tool that turns raw X-ray/CT findings into:
 
